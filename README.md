@@ -16,10 +16,11 @@ Download Submssion Release v1.0 and extract the files into a folder on your PC. 
 (command: java -jar programon.jar)
 
 ## How To Play
-1) 
 
-
-
-
-
-
+1) Each player chooses 3 pokemon and 3 items.
+![Beginning Stage](https://raw.githubusercontent.com/jerrykingbob/Programon/master/choose.png)
+2) Once a player chooses a Pokemon, the other player may not be able to pick the same Pokemon.
+3) Players will take turns to equip items and fight based on their Pokemon's moves.
+![Fight](https://raw.githubusercontent.com/jerrykingbob/Programon/master/Fight.png)
+4) The winner will be decided when all of a player's Pokemon has fainted with the player that has one or more Pokemons still standing being crowned the winner.
+5) Enjoy!
