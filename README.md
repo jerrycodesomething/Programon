@@ -6,14 +6,6 @@
   
   Nonetheless, for our very first project, this was a pretty big achievement; having gone many days without sleep and only having 2 people to work on this assignment with a tight deadline, it covered all the required objectives of the assignment as well as extra features that got my group bonus points. Looking back, I've come a long way as a Java developer. It's always nice to reminisce on the past once in a while and look back to where it all began- with Programon.
   
------------------
-Team Roti Canai
------------------
-<a href="https://github.com/jerrykingbob">![Jerry's Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-Jeremiah Henry (jerrykingbob) 
-<br><a href="https://github.com/LukeHuckman">![Jerry's Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-Luqman Hakim (LukeHuckman) 
-  
 ## How to Run
 #### Method 1
 Clone the repo and run it in an IDE
@@ -38,3 +30,12 @@ Download Submssion Release v1.0 and extract the files into a folder on your PC. 
 4) The winner will be decided when all of a player's Pokemon has fainted with the player that has one or more Pokemons still standing being crowned the winner.
 
 5) Enjoy!
+
+## Dev Team (Contributors)
+-----------------
+Team Roti Canai
+-----------------
+<a href="https://github.com/jerrykingbob">![Jerry's Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+Jeremiah Henry (jerrykingbob) 
+<br><a href="https://github.com/LukeHuckman">![Jerry's Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+Luqman Hakim (LukeHuckman) 
