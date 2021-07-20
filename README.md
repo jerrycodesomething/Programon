@@ -32,7 +32,7 @@ Download Submssion Release v1.0 and extract the files into a folder on your PC. 
 5) Enjoy!
 
 ## Dev Team (Contributors)
-//Team Roti Canai 
+#### Team Roti Canai
 <br><a href="https://github.com/jerrykingbob">![Jerry's Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 Jeremiah Henry (jerrykingbob) 
 <br><a href="https://github.com/LukeHuckman">![Jerry's Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
