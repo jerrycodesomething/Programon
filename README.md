@@ -1,6 +1,12 @@
 # Programon
 ![Programon Image](https://raw.githubusercontent.com/jerrykingbob/Programon/master/Programon.png)
 
+-----------------
+TEAM ROTI CANAI
+-----------------
+-Jeremiah Henry (jerrykingbob)
+-Luqman Hakim (Dakpelz)
+
 ## Summary
   Programon is a multiplayer CLI-GUI-hybrid Pokemon battle simulator built with native Java libraries on Apache's Netbeans IDE. This game was developed by Team Roti Canai (Luke and I) in our very first semester for a programming fudamentals course (WIX1002 Fundamentals of Programming- OOP in Java). This was the very first program I ever coded in Java and is one I'm pretty proud of. While Luke and I have patched most of the bugs, it's still a diamond in the rough and could benefit from a rework in the future.
   
